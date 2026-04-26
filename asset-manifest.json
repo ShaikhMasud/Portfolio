@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bc7827ed.css",
-    "main.js": "/static/js/main.c1d7e001.js",
+    "main.js": "/static/js/main.4eb11e4b.js",
     "static/js/453.1cc257ae.chunk.js": "/static/js/453.1cc257ae.chunk.js",
     "static/media/placeholder.png": "/static/media/placeholder.3fcbbdcd05f3e458d129.png",
     "static/media/expOrange.svg": "/static/media/expOrange.c3e9732086bcc521548240f2f8db0dcf.svg",
@@ -12,7 +12,7 @@
     "static/media/expPink.svg": "/static/media/expPink.ac1de145943281e48101635d936e07a1.svg",
     "static/media/expPurple.svg": "/static/media/expPurple.c054e7936866e05307edbf7a6d27ddde.svg",
     "static/media/expYellow.svg": "/static/media/expYellow.cff6e7009ac8cce0c8806daff98c4c87.svg",
-    "static/media/Masud Shaikh Resume.pdf": "/static/media/Masud Shaikh Resume.6b96e8435e5b898f003a.pdf",
+    "static/media/Masud Shaikh Resume.pdf": "/static/media/Masud Shaikh Resume.cb7d3d92dd998dfc1e32.pdf",
     "static/media/protocols.jpg": "/static/media/protocols.b658e5fd7fcad0d0bb00.jpg",
     "static/media/profileImg.jpg": "/static/media/profileImg.01cfa0369156f72f9cef.jpg",
     "static/media/BestermindRegular.ttf": "/static/media/BestermindRegular.e58a192233afb30a6a59.ttf",
@@ -159,11 +159,11 @@
     "static/media/vuetifyjs.svg": "/static/media/vuetifyjs.3848fcff351a0cbc94e75362594d2b25.svg",
     "static/media/bulma.svg": "/static/media/bulma.12ecb7941234000a2fe38a48cbce30da.svg",
     "main.bc7827ed.css.map": "/static/css/main.bc7827ed.css.map",
-    "main.c1d7e001.js.map": "/static/js/main.c1d7e001.js.map",
+    "main.4eb11e4b.js.map": "/static/js/main.4eb11e4b.js.map",
     "453.1cc257ae.chunk.js.map": "/static/js/453.1cc257ae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bc7827ed.css",
-    "static/js/main.c1d7e001.js"
+    "static/js/main.4eb11e4b.js"
   ]
 }
