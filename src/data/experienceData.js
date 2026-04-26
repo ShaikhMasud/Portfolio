@@ -20,27 +20,5 @@ export const experienceData = [
 </ul>
 
     `,
-  },
-  {
-    id: 2,
-    company: 'DBIT Training & Placement cell',
-    jobtitle: 'Training and Placement Co-ordinator',
-    startYear: '2025',
-    endYear: 'Present (1 years)',
-    url: 'https://placement.dbit.in',
-    additionalInfo: `
-      <ul>
-  <li>
-    <b>Coordinated placement drives</b>, ensuring smooth communication between students, recruiters, and college authorities to schedule and execute interviews.
-  </li>
-  <li>
-    <b>Collaborated with corporate partners</b> to bring in job and internship opportunities, facilitating connections between students and industry professionals.
-  </li>
-  <li>
-    <b>Provided administrative support</b> for training and placement activities, maintaining records, and assisting with follow-up communication between students and recruiters.
-  </li>
-</ul>
-
-    `,
   }
 ]

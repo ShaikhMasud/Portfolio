@@ -15,4 +15,12 @@ export const educationData = [
         endYear: '2022',
         url: 'https://maharashtracollege.org/'
     },
+    {
+        id: 3,
+        institution: 'SSC- 85.20%',
+        course: 'New habib High School',
+        startYear: '2010',
+        endYear: '2020',
+        url: 'https://schools.org.in/mumbai-ii/27230100616/new-habib-high-school-&-jr-college-of-commerce.html'
+    }
 ]
